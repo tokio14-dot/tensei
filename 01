@@ -1,51 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x1 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%281%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x2 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x3 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%283%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x4 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%284%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x5 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%285%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x6 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%286%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x7 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%287%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x8 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%288%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x9 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%289%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x10 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2810%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x11 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2811%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x12 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2812%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x13 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2813%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x14 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2814%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x15 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2815%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x16 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2816%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x17 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2817%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x18 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2818%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x19 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2819%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x20 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2820%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x21 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2821%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x22 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2822%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x23 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2823%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg", 1x24 - Mushoku Tensei: Jobless Reincarnation
-https://archive.org/download/mt-01-24/mt01%20%2824%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E01" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",1. El chico sin trabajo y la reencarnación
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/001.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E02" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",2. El instructor de magia
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/002.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E03" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",3. Un amigo
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/003.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E04" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",4. Equipo de rescate
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/004.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E05" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",5. La niña del bosque
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/005.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E06" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",6. Un nuevo comienzo
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/006.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E07" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",7. Lo que significa ser un héroe
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/007.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E08" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",8. El momento de la despedida
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/008.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E09" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",9. Confrontación
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/009.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E10" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",10. El viaje de Rudeus
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/010.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mushoku Tensei S01E11" tvg-logo="https://image.tmdb.org/t/p/original/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg" group-title="Mushoku Tensei T1",11. Los niños y el guerrero
+https://archive.org/download/007_20240310_20240310/Mushoku%20Tensei%20Isekai%20Ittara%20Honki%20Dasu%20Audio%20Latino/011.mp4
